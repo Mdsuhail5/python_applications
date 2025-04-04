@@ -1,0 +1,6 @@
+amazon | abc@gmail.com | 1234 
+amzon | abc@gmail.conm | 12345667 
+dsa | abc@gmail.com | jhkd 
+yoyo | abc@gamil.c | huio 
+xyz | abc@gmail.com | fdsasd 
+yuiiLhxAk%d+4a1v | abc@gmail.com | iLhxAk%d+4a1v 

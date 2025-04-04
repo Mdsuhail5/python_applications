@@ -1,0 +1,2 @@
+amazon  | abc@gmail.com | 1234 
+ama | abc@gmail.com | qwertrt 
